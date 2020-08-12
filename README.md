@@ -1,4 +1,4 @@
-# Hall Booking Android Project 
+# Hall Booking Server Side Project 
 #
 #
 
